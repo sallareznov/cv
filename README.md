@@ -1,6 +1,6 @@
 # Salla DIAGNE
 
-_Full Remote Software Engineer_
+🧑🏾‍💻🌎 _Full Remote Software Engineer_
 
 ## 💼 Work Experience
 
