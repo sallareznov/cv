@@ -26,29 +26,54 @@ _Software Engineer_
 - developed and maintained crosscutting tools (specification, development, tests, documentation)
 - **_Leveraged knowledge_**: Java, GWT, PostgreSQL, SpringBoot, SVN, Jenkins, Sonar
 
+## 🚧 Projects
+
+🏀 [NBA Fantasy League](https://nbafl.herokuapp.com/): pet project that uses data from the NBA to display stats about players and teams 
+
 ## 👨🏾‍🏫 Teaching
 
 🏫 **[Eductive Lille](https://euralille.eductive.fr/)**
 - Functional Programming in Scala
 - Domain Driven Design
 - Human Machine Interfaces
-- Distributed Treatments with Spark
+- Distributed Treatments with Apache Spark
 
 🏠 **Home/Remote Teaching**
 - Maths: high school level
 - Programming: Scala, Python, Haskell, C and Java
 
+## ✍🏾 Writing
+
+**[Type your business](https://medium.com/deliver-anticipate-shared-traffic-flows/type-your-business-6c39ddc84963)**: How to reduce the possibility of introducing bugs and make your program safer
+
+**[Scala IO 2016](https://medium.com/deliver-anticipate-shared-traffic-flows/scala-io-2016-8b4ac9288b89)**: Thoughts and notes about a conference I attended with Colisweb
+
+
+
 ## 💬 Languages
 
-- 🇫🇷 French: fluent
-- 🇬🇧 English: fluent
-- 🇸🇳 Wolof: fluent
-- 🇪🇸 Spanish: proficient
-- 🇵🇹 Portuguese: limited
+- 🇫🇷 **French**: fluent
+- 🇬🇧 **English**: fluent
+- 🇸🇳 **Wolof**: fluent
+- 🇪🇸 **Spanish**: proficient
+- 🇵🇹 **Portuguese**: limited
 
 ## ❤️ Passions
 
-- Sports 🏃🏾‍♂️: football, basketball, tennis, running, gym, swimming, cycling
-- Cinema 🎞️: movies and TV shows in original versions, old movies
-- Traveling ✈️: Senegal 🇸🇳, France 🇫🇷, Belgium 🇧🇪, Netherlands 🇳🇱, Greece 🇬🇷, Malta 🇲🇹, Croatia 🇭🇷, Mexico 🇲🇽, Sweden 🇸🇪, Slovakia 🇸🇰, Hungary 🇭🇺, Austria 🇦🇹, Germany 🇩🇪
-- Reading 📚: self-help books
+- 🏃🏾‍♂️ **Sports**: football, basketball, tennis, running, gym, swimming, cycling
+- 🎞️ **Cinema**: movies and TV shows in original versions, old movies
+- ✈️ **Traveling**: Senegal 🇸🇳, France 🇫🇷, Belgium 🇧🇪, Netherlands 🇳🇱, Greece 🇬🇷, Malta 🇲🇹, Croatia 🇭🇷, Mexico 🇲🇽, Sweden 🇸🇪, Slovakia 🇸🇰, Hungary 🇭🇺, Austria 🇦🇹, Germany 🇩🇪
+- 📚 **Reading**: self-help books
+- 🎮 **Video games**: sports, adventure, FPS
+
+## 👨🏾‍🎓 Education
+
+**Master Degree in Software Engineering**
+[Lille 1 University](https://www.univ-lille.fr/) - Lille, France 🇫🇷 (2014 - 2016)
+
+**Bachelor in Software Engineering**
+[Lille 1 University](https://www.univ-lille.fr/) - Lille, France 🇫🇷 (2011 - 2014)
+
+**High School baccalaureate in maths, physics and chemistry**
+[Cours Sainte Marie de Hann](https://www.mariste.sn/) - Dakar, Sénégal 🇸🇳 (2011)
+
