@@ -62,32 +62,32 @@
 
 ## 💬 Languages
 
-🇫🇷 **French**: fluent
-🇬🇧 **English**: fluent
-🇸🇳 **Wolof**: fluent
-🇪🇸 **Spanish**: proficient
+🇫🇷 **French**: fluent<br/>
+🇬🇧 **English**: fluent<br/>
+🇸🇳 **Wolof**: fluent<br/>
+🇪🇸 **Spanish**: proficient<br/>
 🇵🇹 **Portuguese**: limited
 
 ---
 
 ## ❤️ Passions
 
-🏃🏾‍♂️ **Sports**: football, basketball, tennis, running, gym, swimming, cling
-🎞️ **Cinema**: movies and TV shows in original versions, old movies
-✈️ **Traveling**: Senegal 🇸🇳, France 🇫🇷, Belgium 🇧🇪, Netherlands 🇳🇱, eece 🇬🇷, Malta 🇲🇹, Croatia 🇭🇷, Mexico 🇲🇽, Sweden 🇸🇪, Slovakia , Hungary 🇭🇺, Austria 🇦🇹, Germany 🇩🇪
-📚 **Reading**: self-help books
+🏃🏾‍♂️ **Sports**: football, basketball, tennis, running, gym, swimming, cycling<br/>
+🎞️ **Cinema**: movies and TV shows in original versions, old movies<br/>
+✈️ **Traveling**: Senegal 🇸🇳, France 🇫🇷, Belgium 🇧🇪, Netherlands 🇳🇱, eece 🇬🇷, Malta 🇲🇹, Croatia 🇭🇷, Mexico 🇲🇽, Sweden 🇸🇪, Slovakia , Hungary 🇭🇺, Austria 🇦🇹, Germany 🇩🇪<br/>
+📚 **Reading**: self-help books<br/>
 🎮 **Video games**: sports, adventure, FPS
   
 ---
 
 ## 👨🏾‍🎓 Education
 
-**Master Degree in Software Engineering**
+**Master Degree in Software Engineering**<br/>
 [Lille 1 University](https://www.univ-lille.fr/) - Lille, France 🇫🇷 (2014 - 2016)
 
-**Bachelor in Software Engineering**
+**Bachelor in Software Engineering**<br/>
 [Lille 1 University](https://www.univ-lille.fr/) - Lille, France 🇫🇷 (2011 - 2014)
 
-**High School baccalaureate in maths, physics and chemistry**
+**High School baccalaureate in maths, physics and chemistry**<br/>
 [Cours Sainte Marie de Hann](https://www.mariste.sn/) - Dakar, Sénégal 🇸🇳 (2011)
 
