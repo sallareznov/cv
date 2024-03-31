@@ -1,6 +1,6 @@
 # Salla DIAGNE
 
-_Software Engineer_
+_Full Remote Software Engineer_
 
 ## 💼 Work Experience
 
@@ -39,16 +39,15 @@ _Software Engineer_
 - Distributed Treatments with Apache Spark
 
 🏠 **Home/Remote Teaching**
-- Maths: high school level
-- Programming: Scala, Python, Haskell, C and Java
+- ♾️ Maths: high school level
+- 💬 Languages: English and French
+- 👨🏾‍💻 Programming: Scala, Python, Haskell, C and Java
 
 ## ✍🏾 Writing
 
 **[Type your business](https://medium.com/deliver-anticipate-shared-traffic-flows/type-your-business-6c39ddc84963)**: How to reduce the possibility of introducing bugs and make your program safer
 
 **[Scala IO 2016](https://medium.com/deliver-anticipate-shared-traffic-flows/scala-io-2016-8b4ac9288b89)**: Thoughts and notes about a conference I attended with Colisweb
-
-
 
 ## 💬 Languages
 
@@ -68,12 +67,12 @@ _Software Engineer_
 
 ## 👨🏾‍🎓 Education
 
-**Master Degree in Software Engineering**
+**Master Degree in Software Engineering**<br/>
 [Lille 1 University](https://www.univ-lille.fr/) - Lille, France 🇫🇷 (2014 - 2016)
 
-**Bachelor in Software Engineering**
+**Bachelor in Software Engineering**<br/>
 [Lille 1 University](https://www.univ-lille.fr/) - Lille, France 🇫🇷 (2011 - 2014)
 
-**High School baccalaureate in maths, physics and chemistry**
+**High School baccalaureate in maths, physics and chemistry**<br/>
 [Cours Sainte Marie de Hann](https://www.mariste.sn/) - Dakar, Sénégal 🇸🇳 (2011)
 
