@@ -7,7 +7,8 @@ _Full Remote Software Engineer_
 **Software Engineer** @ [Meltwater](https://www.meltwater.com/) 🇺🇸 (<u>Remote</u>) _(January 2022 - Present)_
 
 - maintain an application whose task is to calculate the number of engagements (likes, shares, comments, etc.) on various input social sources (tweets, Facebook posts, Reddit posts...) then feed the results into an output stream for further processing
-- **_Leveraged knowledge_**: Kotlin, Python, Kafka, Git, CI/CD, AWS, Docker, Kubernetes, Terraform
+- **_used concepts_**: agile, functional programming, continuous integration/deployment, infrastructure as code, [ship/show/ask](https://martinfowler.com/articles/ship-show-ask.html) branching strategy
+- **_used technologies_**: kotlin, python, kafka, git, aws, docker, kubernetes, terraform, kibana, grafana
 
 **Software Engineer** @ [Colisweb](https://www.colisweb.com/) 🇫🇷 _(September 2016 - December 2021)_
 
@@ -17,18 +18,24 @@ _Full Remote Software Engineer_
 - coded in Ruby to maintain the monolith while the transition to Scala microservices is being completed
 - helped set up our CI/CD process and our deployment infrastructure with Docker/Kubernetes/AWS and Gitlab CI
 - supervised two interns throughout their end-of-studies internships and helped them be quickly productive and contribute highly
-- **_Leveraged knowledge_**: Scala, Ruby, FP, PostgreSQL, Domain-Driven Design, CQRS/Event Sourcing, Kafka, AMQP, Git, CI/CD, AWS, Google Cloud, Docker, Kubernetes, Terraform
+- **_used concepts_**: functional programming, microservices, domain driven design, hexagonal architecture, event sourcing, cqrs, continuous integration/deployment, infrastructure as code
+- **_used technologies_**: scala, ruby, fp, postgresql, domain driven design, kafka, amqp, git, aws, google cloud, docker, kubernetes, terraform, datadog
 
 **Software Developer** @ [Vekia](https://www.vekia.fr/) 🇫🇷 _(March 2014 - August 2016)_ (<u>apprenticeship</u>)
 
 - wrote specifications, developed and tested human-computer interface using the Test-Driven Development methodology
 - set up a new technical stack of upcoming projects
 - developed and maintained crosscutting tools (specification, development, tests, documentation)
-- **_Leveraged knowledge_**: Java, GWT, PostgreSQL, SpringBoot, SVN, Jenkins, Sonar
+- **_used concepts_**: mvp architecture, continuous integration
+- **_used technologies_**: java, gwt, postgresql, spring boot, svn, jenkins, sonar
+
+---
 
 ## 🚧 Projects
 
-🏀 [NBA Fantasy League](https://nbafl.herokuapp.com/): pet project that uses data from the NBA to display stats about players and teams 
+🏀 [NBA Fantasy League](https://nbafl.herokuapp.com/): pet project that leverages data from the NBA to display stats about players and teams 
+
+---
 
 ## 👨🏾‍🏫 Teaching
 
@@ -43,11 +50,15 @@ _Full Remote Software Engineer_
 - 💬 Languages: English and French
 - 👨🏾‍💻 Programming: Scala, Python, Haskell, C and Java
 
+---
+
 ## ✍🏾 Writing
 
 **[Type your business](https://medium.com/deliver-anticipate-shared-traffic-flows/type-your-business-6c39ddc84963)**: How to reduce the possibility of introducing bugs and make your program safer
 
 **[Scala IO 2016](https://medium.com/deliver-anticipate-shared-traffic-flows/scala-io-2016-8b4ac9288b89)**: Thoughts and notes about a conference I attended with Colisweb
+
+---
 
 ## 💬 Languages
 
@@ -57,6 +68,8 @@ _Full Remote Software Engineer_
 - 🇪🇸 **Spanish**: proficient
 - 🇵🇹 **Portuguese**: limited
 
+---
+
 ## ❤️ Passions
 
 - 🏃🏾‍♂️ **Sports**: football, basketball, tennis, running, gym, swimming, cycling
@@ -64,6 +77,8 @@ _Full Remote Software Engineer_
 - ✈️ **Traveling**: Senegal 🇸🇳, France 🇫🇷, Belgium 🇧🇪, Netherlands 🇳🇱, Greece 🇬🇷, Malta 🇲🇹, Croatia 🇭🇷, Mexico 🇲🇽, Sweden 🇸🇪, Slovakia 🇸🇰, Hungary 🇭🇺, Austria 🇦🇹, Germany 🇩🇪
 - 📚 **Reading**: self-help books
 - 🎮 **Video games**: sports, adventure, FPS
+  
+---
 
 ## 👨🏾‍🎓 Education
 
