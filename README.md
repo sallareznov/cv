@@ -26,13 +26,25 @@ _Software Engineer_
 - developed and maintained crosscutting tools (specification, development, tests, documentation)
 - **_Leveraged knowledge_**: Java, GWT, PostgreSQL, SpringBoot, SVN, Jenkins, Sonar
 
-## 🏳️ Languages
+## 👨🏾‍🏫 Teaching
 
-- French 🇫🇷: fluent
-- English 🇬🇧: fluent
-- Wolof 🇸🇳: fluent
-- Spanish 🇪🇸: proficient
-- Portuguese 🇵🇹: limited
+🏫 **[Eductive Lille](https://euralille.eductive.fr/)**
+- Functional Programming in Scala
+- Domain Driven Design
+- Human Machine Interfaces
+- Distributed Treatments with Spark
+
+🏠 **Home/Remote Teaching**
+- Maths: high school level
+- Programming: Scala, Python, Haskell, C and Java
+
+## 💬 Languages
+
+- 🇫🇷 French: fluent
+- 🇬🇧 English: fluent
+- 🇸🇳 Wolof: fluent
+- 🇪🇸 Spanish: proficient
+- 🇵🇹 Portuguese: limited
 
 ## ❤️ Passions
 
