@@ -17,4 +17,11 @@ _Software Engineer_
 - coded in Ruby to maintain the monolith while the transition to Scala microservices is being completed
 - helped set up our CI/CD process and our deployment infrastructure with Docker/Kubernetes/AWS and Gitlab CI
 - supervised two interns throughout their end-of-studies internships and helped them be quickly productive and contribute highly
-- **_Leveraged knowledge_**: Scala, Ruby, FP, Postgres, Domain-Driven Design, CQRS/Event Sourcing, Kafka, AMQP, Git, CI/CD, AWS, Google Cloud, Docker, Kubernetes, Terraform
+- **_Leveraged knowledge_**: Scala, Ruby, FP, PostgreSQL, Domain-Driven Design, CQRS/Event Sourcing, Kafka, AMQP, Git, CI/CD, AWS, Google Cloud, Docker, Kubernetes, Terraform
+
+**Software Developer** @ [Vekia]() _(March 2014 - August 2016)_ (<u>apprenticeship</u>)
+
+- wrote specifications, developed and tested human-computer interface using the Test-Driven Development methodology
+- set up a new technical stack of upcoming projects
+- developed and maintained crosscutting tools (specification, development, tests, documentation)
+- **_Leveraged knowledge_**: Java, GWT, PostgreSQL, SpringBoot, SVN, Jenkins, Sonar
