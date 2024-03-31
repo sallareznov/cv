@@ -18,7 +18,7 @@
 - coded in Ruby to maintain the monolith while the transition to Scala microservices is being completed
 - helped set up our CI/CD process and our deployment infrastructure with Docker/Kubernetes/AWS and Gitlab CI
 - supervised two interns throughout their end-of-studies internships and helped them be quickly productive and contribute highly
-- **_used concepts_**: functional programming, microservices, domain driven design, hexagonal architecture, event sourcing, cqrs, continuous integration/deployment, infrastructure as code
+- **_used concepts_**: agile, functional programming, microservices, domain driven design, hexagonal architecture, event sourcing, cqrs, continuous integration/deployment, infrastructure as code
 - **_used technologies_**: scala, ruby, fp, postgresql, domain driven design, kafka, amqp, git, aws, google cloud, docker, kubernetes, terraform, datadog
 
 **Software Developer** @ [Vekia](https://www.vekia.fr/) 🇫🇷 _(March 2014 - August 2016)_ (<u>apprenticeship</u>)
@@ -26,7 +26,7 @@
 - wrote specifications, developed and tested human-computer interface using the Test-Driven Development methodology
 - set up a new technical stack of upcoming projects
 - developed and maintained crosscutting tools (specification, development, tests, documentation)
-- **_used concepts_**: mvp architecture, continuous integration
+- **_used concepts_**: mvp architecture, [waterfall model](https://www.atlassian.com/agile/project-management/waterfall-methodology), continuous integration
 - **_used technologies_**: java, gwt, postgresql, spring boot, svn, jenkins, sonar
 
 ---
