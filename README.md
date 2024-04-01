@@ -7,8 +7,11 @@
 **Software Engineer** @ [Meltwater](https://www.meltwater.com/) 🇺🇸 (<u>Remote</u>) _(January 2022 - Present)_
 
 - maintain an application whose task is to calculate the number of engagements (likes, shares, comments, etc.) on various input social sources (tweets, Facebook posts, Reddit posts...) then feed the results into an output stream for further processing
+- introduced the team to the use of [approval testing](https://approvaltests.com/)
+- co-led the migration of our continuous integration and deployment process from Drone to Github Actions
+- help migrate our infrastructure from from AWS to Azure
 - **_used concepts_**: agile, functional programming, continuous integration/deployment, infrastructure as code, [ship/show/ask](https://martinfowler.com/articles/ship-show-ask.html) branching strategy
-- **_used technologies_**: kotlin, python, kafka, git, aws, docker, kubernetes, terraform, kibana, grafana
+- **_used technologies_**: kotlin, python, kafka, git, aws, azure, docker, kubernetes, terraform, kibana, grafana
 
 **Software Engineer** @ [Colisweb](https://www.colisweb.com/) 🇫🇷 _(September 2016 - December 2021)_
 
