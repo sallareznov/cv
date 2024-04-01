@@ -72,7 +72,7 @@
 
 ## ❤️ Passions
 
-🏃🏾‍♂️ **Sports**: football, basketball, tennis, running, gym, swimming, cycling<br/>
+👟 **Sports**: football ⚽️, basketball 🏀, tennis 🎾, running 🏃🏾‍♂️, gym 🏋🏾‍♂️, swimming 🏊🏾‍♂️, cycling 🚵🏾‍♂️<br/>
 🎞️ **Cinema**: movies and TV shows in original versions, old movies<br/>
 ✈️ **Traveling**: Senegal 🇸🇳, France 🇫🇷, Belgium 🇧🇪, Netherlands 🇳🇱, Greece 🇬🇷, Malta 🇲🇹, Croatia 🇭🇷, Mexico 🇲🇽, Sweden 🇸🇪, Slovakia 🇸🇰, Hungary 🇭🇺, Austria 🇦🇹, Germany 🇩🇪<br/>
 📚 **Reading**: self-help books<br/>
