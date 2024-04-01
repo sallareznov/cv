@@ -48,7 +48,7 @@
 - Human Machine Interfaces
 - Distributed Treatments with Apache Spark
 
-🏠 **Home/Remote Teaching**
+🏠 **Home/Remote**
 - ♾️ Maths: high school level
 - 💬 Languages: English and French
 - 👨🏾‍💻 Programming: Scala, Python, Haskell, C and Java
