@@ -11,7 +11,7 @@
 - co-led the migration of our continuous integration and deployment process from Drone to Github Actions
 - help migrate our infrastructure from from AWS to Azure
 - **_used concepts_**: agile, functional programming, continuous integration/deployment, infrastructure as code, [ship/show/ask](https://martinfowler.com/articles/ship-show-ask.html) branching strategy
-- **_used technologies_**: kotlin, python, kafka, git, aws, azure, docker, kubernetes, terraform, kibana, grafana
+- **_used technologies_**: ![](https://img.shields.io/badge/kotlin-black?style=flat-square&logo=kotlin), ![](https://img.shields.io/badge/python-black?style=flat-square&logo=python), ![](https://img.shields.io/badge/kafka-black?style=flat-square&logo=apachekafka), ![](https://img.shields.io/badge/git-black?style=flat-square&logo=git), ![](https://img.shields.io/badge/aws-black?style=flat-square&logo=amazonaws), ![](https://img.shields.io/badge/azure-black?style=flat-square&logo=microsoftazure), ![](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker), ![](https://img.shields.io/badge/kubernetes-black?style=flat-square&logo=kubernetes), ![](https://img.shields.io/badge/terraform-black?style=flat-square&logo=terraform), ![](https://img.shields.io/badge/kibana-white?style=flat-square&logo=kibana), ![](https://img.shields.io/badge/grafana-white?style=flat-square&logo=grafana)
 
 **Software Engineer** @ [Colisweb](https://www.colisweb.com/) 🇫🇷 _(September 2016 - December 2021)_
 
@@ -30,7 +30,7 @@
 - set up a new technical stack of upcoming projects
 - developed and maintained crosscutting tools (specification, development, tests, documentation)
 - **_used concepts_**: mvp architecture, [waterfall model](https://www.atlassian.com/agile/project-management/waterfall-methodology), continuous integration
-- **_used technologies_**: java, gwt, postgresql, spring boot, svn, jenkins, sonar
+- **_used technologies_**: ![](https://img.shields.io/badge/-java-black?style=flat-square&logo=java), ![](https://img.shields.io/badge/gwt-black?style=flat-square&logo=gwt), ![](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql), ![](https://img.shields.io/badge/spring_boot-black?style=flat-square&logo=springboot), ![](https://img.shields.io/badge/svn-black?style=flat-square&logo=subversion), ![](https://img.shields.io/badge/jenkins-black?style=flat-square&logo=jenkins), ![](https://img.shields.io/badge/sonarqube-black?style=flat-square&logo=sonarqube)
 
 ---
 
