@@ -22,7 +22,7 @@
 - helped set up our CI/CD process and our deployment infrastructure with Docker/Kubernetes/AWS and Gitlab CI
 - supervised two interns throughout their end-of-studies internships and helped them be quickly productive and contribute highly
 - **_used concepts_**: agile, functional programming, microservices, domain driven design, hexagonal architecture, event sourcing, cqrs, continuous integration/deployment, infrastructure as code
-- **_used technologies_**: scala, ruby, fp, postgresql, domain driven design, kafka, amqp, git, aws, google cloud, docker, kubernetes, terraform, datadog
+- **_used technologies_**: ![](https://img.shields.io/badge/scala-black?style=flat-square&logo=scala),![](https://img.shields.io/badge/ruby-black?style=flat-square&logo=ruby), ![](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql), ![](https://img.shields.io/badge/kafka-black?style=flat-square&logo=apachekafka), ![](https://img.shields.io/badge/rabbitmq-black?style=flat-square&logo=rabbitmq), ![](https://img.shields.io/badge/git-black?style=flat-square&logo=git), ![](https://img.shields.io/badge/aws-black?style=flat-square&logo=amazonaws), ![](https://img.shields.io/badge/google_cloud-black?style=flat-square&logo=googlecloud), ![](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker), ![](https://img.shields.io/badge/kubernetes-black?style=flat-square&logo=kubernetes), ![](https://img.shields.io/badge/terraform-black?style=flat-square&logo=terraform), ![](https://img.shields.io/badge/datadog-black?style=flat-square&logo=datadog)
 
 **Software Developer** @ [Vekia](https://www.vekia.fr/) 🇫🇷 _(March 2014 - August 2016)_ (<u>apprenticeship</u>)
 
