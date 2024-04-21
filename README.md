@@ -2,6 +2,8 @@
 
 🧑🏾‍💻🌎 _Full Remote Software Engineer_
 
+*Favourite languages*: ![](https://img.shields.io/badge/scala-black?style=flat-square&logo=scala) ![](https://img.shields.io/badge/haskell-black?style=flat-square&logo=haskell) ![](https://img.shields.io/badge/rust-black?style=flat-square&logo=rust) ![](https://img.shields.io/badge/elixir-black?style=flat-square&logo=elixir)
+
 ## 💼 Work Experience
 
 **Software Engineer** @ [Meltwater](https://www.meltwater.com/) 🇺🇸 (<u>Remote</u>) _(January 2022 - Present)_
@@ -39,7 +41,8 @@
 
 ## 🚧 Projects
 
-🏀 [NBA Fantasy League](https://nbafl.herokuapp.com/): pet project that leverages data from the NBA to display stats about players and teams 
+🏀 [NBA Fantasy League](https://nbafl.herokuapp.com/): pet project that leverages data from the NBA to display stats about players and teams<br/>
+**_used technologies_**: ![](https://img.shields.io/badge/python-black?style=flat-square&logo=python) ![](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql)
 
 ---
 
