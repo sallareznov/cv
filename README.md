@@ -35,7 +35,7 @@
 - set up a new technical stack of upcoming projects
 - developed and maintained crosscutting tools (specification, development, tests, documentation)
 - **_used concepts_**: mvp architecture, [waterfall model](https://www.atlassian.com/agile/project-management/waterfall-methodology), continuous integration
-- **_used technologies_**: ![](https://img.shields.io/badge/-java-black?style=flat-square&logo=java) ![](https://img.shields.io/badge/gwt-black?style=flat-square&logo=gwt) ![](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql) ![](https://img.shields.io/badge/spring_boot-black?style=flat-square&logo=springboot) ![](https://img.shields.io/badge/svn-black?style=flat-square&logo=subversion) ![](https://img.shields.io/badge/jenkins-black?style=flat-square&logo=jenkins) ![](https://img.shields.io/badge/sonarqube-black?style=flat-square&logo=sonarqube)
+- **_used technologies_**: ![](https://img.shields.io/badge/-java-black?style=flat-square&logo=openjdk) ![](https://img.shields.io/badge/gwt-black?style=flat-square&logo=google) ![](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql) ![](https://img.shields.io/badge/spring_boot-black?style=flat-square&logo=springboot) ![](https://img.shields.io/badge/svn-black?style=flat-square&logo=subversion) ![](https://img.shields.io/badge/jenkins-black?style=flat-square&logo=jenkins) ![](https://img.shields.io/badge/sonarqube-black?style=flat-square&logo=sonarqube)
 
 ---
 
