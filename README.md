@@ -2,7 +2,7 @@
 
 🧑🏾‍💻🌎 _Full Remote Software Engineer_
 
-*Favourite languages*: ![](https://img.shields.io/badge/scala-black?style=flat-square&logo=scala) ![](https://img.shields.io/badge/haskell-black?style=flat-square&logo=haskell) ![](https://img.shields.io/badge/rust-black?style=flat-square&logo=rust) ![](https://img.shields.io/badge/elixir-black?style=flat-square&logo=elixir)
+*Favourite languages*: [![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)](#) [![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](#) [![F#](https://img.shields.io/badge/F%23-378BBA?logo=fsharp&logoColor=fff)](#) [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#) [![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)](#)
 
 ## 💼 Work Experience
 
