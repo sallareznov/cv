@@ -76,6 +76,7 @@
 🇸🇳 **Wolof**: fluent<br/>
 🇪🇸 **Spanish**: proficient<br/>
 🇵🇹 **Portuguese**: limited
+🇸🇦 **Arabic**: limited
 
 ---
 
