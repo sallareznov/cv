@@ -1,6 +1,7 @@
 # Salla DIAGNE
 
 🧑🏾‍💻🌎 _Full Remote Software Engineer_
+🏠 _Dubai, United Arab Emirates_
 
 *Favourite languages*: [![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)](#) [![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](#) [![F#](https://img.shields.io/badge/F%23-378BBA?logo=fsharp&logoColor=fff)](#) [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#) [![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)](#)
 
@@ -9,7 +10,7 @@
 **Software Engineer** @ [Meltwater](https://www.meltwater.com/) 🇺🇸 (<u>Remote</u>) _(January 2022 - Present)_
 
 - maintain an application whose task is to calculate the number of engagements (likes, shares, comments, etc.) on various input social sources (tweets, Facebook posts, Reddit posts...) then feed the results into an output stream for further processing
-- introduced the team to the use of [approval testing](https://approvaltests.com/)
+- introduced the team to the use of [approval testing](https://approvaltests.com/) and [functional design](https://degoes.net/articles/functional-design)
 - co-led the migration of our continuous integration and deployment process from Drone to Github Actions
 - help migrate our infrastructure from from AWS to Azure
 - **_used concepts_**: agile, functional programming, continuous integration/deployment, infrastructure as code, [ship/show/ask](https://martinfowler.com/articles/ship-show-ask.html) branching strategy
@@ -75,7 +76,7 @@
 🇬🇧 **English**: fluent<br/>
 🇸🇳 **Wolof**: fluent<br/>
 🇪🇸 **Spanish**: proficient<br/>
-🇵🇹 **Portuguese**: limited
+🇵🇹 **Portuguese**: limited<br/>
 🇸🇦 **Arabic**: limited
 
 ---
