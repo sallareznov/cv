@@ -62,8 +62,8 @@
 
 ## 💬 Languages
 
-🇫🇷 **French**: fluent<br/>
 🇬🇧 **English**: fluent<br/>
+🇫🇷 **French**: fluent<br/>
 🇸🇳 **Wolof**: fluent<br/>
 🇪🇸 **Spanish**: proficient<br/>
 🇵🇹 **Portuguese**: limited<br/>
