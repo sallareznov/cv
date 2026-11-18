@@ -9,7 +9,7 @@
 **Software Engineer** @ [Meltwater](https://www.meltwater.com/) 🇺🇸 (<u>Remote</u>) _(January 2022 - Present)_
 
 - maintain an application whose task is to calculate the number of engagements (likes, shares, comments, etc.) on various input social sources (tweets, Facebook posts, Reddit posts...) then feed the results into an output stream for further processing
-- drove and still maintain the migration from a single-entity profile merge store (Unified Profiles) to a general-purpose entity graph (MEG) — replacing flat, per-source profile aggregation with a typed, ontology-governed graph of entities and relationships.
+- drove and still maintain the migration from a single-entity profile merge store to a general-purpose entity graph — replacing flat, per-source profile aggregation with a typed, ontology-governed graph of entities and relationships.
 - introduced the team to the use of [approval testing](https://approvaltests.com/) and [functional design](https://degoes.net/articles/functional-design)
 - co-led the migration of our continuous integration and deployment process from Drone to Github Actions
 - help migrate our infrastructure from from AWS to Azure
