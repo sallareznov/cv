@@ -9,10 +9,11 @@
 **Software Engineer** @ [Meltwater](https://www.meltwater.com/) 🇺🇸 (<u>Remote</u>) _(January 2022 - Present)_
 
 - maintain an application whose task is to calculate the number of engagements (likes, shares, comments, etc.) on various input social sources (tweets, Facebook posts, Reddit posts...) then feed the results into an output stream for further processing
+- drove and still maintain the migration from a single-entity profile merge store (Unified Profiles) to a general-purpose entity graph (MEG) — replacing flat, per-source profile aggregation with a typed, ontology-governed graph of entities and relationships.
 - introduced the team to the use of [approval testing](https://approvaltests.com/) and [functional design](https://degoes.net/articles/functional-design)
 - co-led the migration of our continuous integration and deployment process from Drone to Github Actions
 - help migrate our infrastructure from from AWS to Azure
-- **_used concepts_**: agile, functional programming, continuous integration/deployment, infrastructure as code, [ship/show/ask](https://martinfowler.com/articles/ship-show-ask.html) branching strategy
+- **_used concepts_**: agile, functional programming, continuous integration/deployment, infrastructure as code, [ship/show/ask](https://martinfowler.com/articles/ship-show-ask.html) branching strategy, [ontology-driven development](https://blog.palantir.com/ontology-oriented-software-development-68d7353fdb12)
 - **_used technologies_**: ![](https://img.shields.io/badge/kotlin-black?style=flat-square&logo=kotlin) ![](https://img.shields.io/badge/python-black?style=flat-square&logo=python) ![](https://img.shields.io/badge/kafka-black?style=flat-square&logo=apachekafka) ![](https://img.shields.io/badge/postgres-black?style=flat-square&logo=postgresql) ![](https://img.shields.io/badge/git-black?style=flat-square&logo=git) ![](https://img.shields.io/badge/aws-black?style=flat-square&logo=amazonaws) ![](https://img.shields.io/badge/azure-black?style=flat-square&logo=microsoftazure) ![](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker) ![](https://img.shields.io/badge/kubernetes-black?style=flat-square&logo=kubernetes) ![](https://img.shields.io/badge/terraform-black?style=flat-square&logo=terraform) ![](https://img.shields.io/badge/kibana-black?style=flat-square&logo=kibana) ![](https://img.shields.io/badge/grafana-black?style=flat-squar&logo=grafana)
 
 **Software Engineer** @ [Colisweb](https://www.colisweb.com/) 🇫🇷 _(September 2016 - December 2021)_
