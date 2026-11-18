@@ -1,6 +1,6 @@
 # Salla DIAGNE
 
-🧑🏾‍💻🌎 _Full Remote Software Engineer_
+🧑🏾‍💻🌎 _Full Remote Software Engineer_</br>
 🏠 _Dubai, United Arab Emirates_
 
 ## 💼 Work Experience
