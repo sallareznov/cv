@@ -36,13 +36,6 @@
 
 ---
 
-## 🚧 Projects
-
-🏀 [NBA Fantasy League](https://nbafl.herokuapp.com/): pet project that leverages data from the NBA to display stats about players and teams<br/>
-**_used technologies_**: ![](https://img.shields.io/badge/python-black?style=flat-square&logo=python) ![](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql)
-
----
-
 ## 👨🏾‍🏫 Teaching
 
 🏫 **[Eductive Lille](https://euralille.eductive.fr/)**
